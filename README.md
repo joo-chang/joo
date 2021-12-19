@@ -1,4 +1,4 @@
-# 프로젝트 링크
+# 포트폴리오
 
 * Java를 이용한 스터디 카페 무인 시스템 <br>
   * https://github.com/joo-chang/StudyCafe <br>
